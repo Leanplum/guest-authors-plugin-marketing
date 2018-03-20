@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: Lenaplum - Guest Authors
+ * Plugin Name: Leanplum - Guest Authors
  * Description: Assign guest authors to a post.
  * Author: MentorMate
  * Author URI: http://mentormate.com/
